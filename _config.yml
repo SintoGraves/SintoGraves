@@ -1,0 +1,24 @@
+
+title: Reason Over Rhetoric
+description: Independent op-eds for a thinking Republic.
+url: "https://YOUR-USERNAME.github.io"   # change to your GitHub Pages URL or custom domain
+baseurl: ""                               # leave empty for username.github.io, else set to your subpath
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+
+author:
+  name: Sinto Gra'ves
+  email: you@example.com
+
+social:
+  github: "YOUR-USERNAME"
+
+minima:
+  date_format: "%B %-d, %Y"
+  social_links:
+    - { platform: github,  user_url: "https://github.com/YOUR-USERNAME" }
